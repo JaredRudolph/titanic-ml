@@ -30,7 +30,7 @@ titanic-ml/
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/titanic-ml.git
+   git clone https://github.com/JaredRudolph/titanic-ml.git
    cd titanic-ml
    ```
 
